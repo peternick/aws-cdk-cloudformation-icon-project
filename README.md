@@ -1,6 +1,9 @@
-# Welcome to your CDK TypeScript project
+## Commands to execute for cdk (basic)
+* `cdk bootstrap`
+* `cdk synth` emits the synthesized CloudFormation template
+* `cdk deploy` deploy this stack to your default AWS account/region
 
-## Commands to execute for cdk (in order)
+## Commands that may be useful in future use
 
 * `npm run build`   compile typescript to js
 * `npm run watch`   watch for changes and compile
